@@ -1,0 +1,6 @@
+{
+  "name": "병목 현상 탐지 생산 대시보드",
+  "description": "자동차 의장 공정 순차 생산라인의 차량 등급별 Cycle Time(CT) 및 Takt Time 기반 병목 현상 사전 탐지 및 생산 시뮬레이션 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
